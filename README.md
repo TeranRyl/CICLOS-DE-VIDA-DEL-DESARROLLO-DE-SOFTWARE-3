@@ -26,7 +26,6 @@ public long calculoTarifa(long tarifaBase, int diasAntelacion, int edad)
 1. De acuerdo con lo indicado, y teniendo en cuenta que NO hay precondiciones, en qué casos se debería arrojar una excepción de tipo ExcepcionParametrosInvalidos?. Agregue esto a la especificación.
 1. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted- creen una buena división del conjunto de datos de entrada de la función anterior:
 
-![](Aspose.Words.aecd1df2-b7fa-462f-875c-f03fcd719b2a.001.png)
 
 
 Número
