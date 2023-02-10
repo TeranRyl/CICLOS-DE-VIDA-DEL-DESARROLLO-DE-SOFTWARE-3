@@ -89,7 +89,7 @@ La siguiente es la especificación de la función que se usará en el módulo de
 4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
 
 |Número de Clase de equivalencia|Condicion limite de la entrada|
-| - | - | - |
+| - | - |
 |1|edad = 0|
 |2|-∞ < edad < 0|
 |3|-∞ < diasAntelacion < 0|
