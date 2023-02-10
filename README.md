@@ -60,8 +60,16 @@ La siguiente es la especificación de la función que se usará en el módulo de
 
 
 |Número |Clase de equivalencia (en lenguaje natural o matemático).|Resultado correcto / incorrecto.|
-| 6-9 | 6-9 | 6-9 |
-||||
+| - | - | - |
+|1|Edad del pasajero igual a 0|Incorrecto|
+|2|Edad del pasajero negativa|Incorrecto|
+|3|Dias de antelacion del vuelo negativos|Incorrecto|
+|4|Dias de antelacion del vuelo igual a 0|Correcto|
+|5|Valor base del vuelo negativo|Incorrecto|
+|6|Valor base del vuelo igual a 0|Correcto|
+|7|Edad del pasajero mayor a 0|Correcto|
+|8|Dias de antelacion del vuelo mayor a 0|Correcto|
+|9|Valor base del vuelo mayor a 0|Correcto|
 
 
 3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
