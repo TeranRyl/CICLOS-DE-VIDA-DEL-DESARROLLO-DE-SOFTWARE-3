@@ -5,7 +5,6 @@ Nombre de los integrantes del taller:
 - Juan Francisco Teran Roman
 
 Proyecto: Testing
-
 Entrega del laboratorio: https://github.com/TeranRyl/CVDS_Lab3_Testing.git
 
 
