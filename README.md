@@ -35,7 +35,7 @@ La siguiente es la especificación de la función que se usará en el módulo de
 La excepcion se deberia arrojar en aquellos casos en los que la edad sea negativa o igual a cero, la tarifa base sea negativa, o los dias de antelacion sean negativos.
 
 
-1. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted- creen una buena división del conjunto de datos de entrada de la función anterior: 
+2. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted- creen una buena división del conjunto de datos de entrada de la función anterior: 
 
 
 
@@ -45,5 +45,5 @@ La excepcion se deberia arrojar en aquellos casos en los que la edad sea negativ
 
 
 3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
-3. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
-3. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
+5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
