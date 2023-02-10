@@ -1,4 +1,13 @@
 # CVDS_Lab3_Testing
+
+Nombre de los integrantes del taller:
+- Daniel Esteban Perez Bohorquez
+- Juan Francisco Teran Roman
+
+Proyecto: Testing
+Entrega del laboratorio: https://github.com/TeranRyl/CVDS_Lab3_Testing.git
+
+
 **AeroDescuentos** 
 
 Se está desarrollando para una aerolínea su módulo de liquidación de tiquetes aéreos. Para el mismo, se tiene una función que aplica descuentos a la tarifa base del vuelo dependiendo del tiempo de antelación de la reserva y la edad del pasajero. Los descuentos SON ACUMULABLES. 
