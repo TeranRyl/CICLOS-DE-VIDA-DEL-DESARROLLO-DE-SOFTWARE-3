@@ -60,7 +60,7 @@ La siguiente es la especificación de la función que se usará en el módulo de
 
 
 |Número |Clase de equivalencia (en lenguaje natural o matemático).|Resultado correcto / incorrecto.|
-| - | - | - |
+| 6-9 | 6-9 | 6-9 |
 ||||
 
 
