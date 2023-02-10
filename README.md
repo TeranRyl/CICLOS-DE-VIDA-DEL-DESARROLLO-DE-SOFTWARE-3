@@ -12,19 +12,19 @@ La siguiente es la especificación de la función que se usará en el módulo de
 
 /\*\* 
 
-*calcular la tarifa de cada billete según el trayecto, la antelación  
+*calcular la tarifa de cada billete según el trayecto, la antelación*  
 
-*en la que  se obtiene el billete y la edad del pasajero, de acuerdo 
+*en la que  se obtiene el billete y la edad del pasajero, de acuerdo* 
 
-*con la normativa 005.
+*con la normativa 005.*
 
-*@param tarifaBase valor base del vuelo
+*@param tarifaBase valor base del vuelo*
 
-*@param diasAntelacion dias de antelación del vuelo
+*@param diasAntelacion dias de antelación del vuelo*
 
-*@param edad - edad del pasajero 
+*@param edad - edad del pasajero* 
 
-*@throws ExcepcionParametrosInvalidos [XXXXXXXXXXXXXXXXXXXXXXXXXXX] 
+*@throws ExcepcionParametrosInvalidos [XXXXXXXXXXXXXXXXXXXXXXXXXXX]* 
 
 \*\*/ 
 
