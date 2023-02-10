@@ -34,6 +34,26 @@ La siguiente es la especificación de la función que se usará en el módulo de
     
     La excepcion se deberia arrojar en aquellos casos en los que la edad sea negativa o igual a cero, la tarifa base sea negativa, o los dias de antelacion sean negativos.
 
+/\*\* 
+
+*calcular la tarifa de cada billete según el trayecto, la antelación*  
+
+*en la que  se obtiene el billete y la edad del pasajero, de acuerdo* 
+
+*con la normativa 005.*
+
+*@param tarifaBase valor base del vuelo*
+
+*@param diasAntelacion dias de antelación del vuelo*
+
+*@param edad - edad del pasajero* 
+
+*@throws ExcepcionParametrosInvalidos edad menor o igual a cero, dias de antelacion negativos, o tarifa base negativa* 
+
+\*\*/ 
+
+*public long calculoTarifa(long tarifaBase, int diasAntelacion, int edad)* 
+
 
 2. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted- creen una buena división del conjunto de datos de entrada de la función anterior: 
 
