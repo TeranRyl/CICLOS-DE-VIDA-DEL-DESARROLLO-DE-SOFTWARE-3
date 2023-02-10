@@ -1,0 +1,6 @@
+Nombre de los integrantes del taller:
+- Daniel Esteban Perez Bohorquez
+- Juan Francisco Teran Roman
+
+Proyecto: Testing
+Entrega del laboratorio: https://github.com/TeranRyl/CVDS_Lab3_Testing.git
