@@ -87,4 +87,17 @@ La siguiente es la especificación de la función que se usará en el módulo de
 |9|(100, 22, 19)|85|
 
 4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
-5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+
+|Número de Clase de equivalencia|Condicion limite de la entrada|
+| - | - | - |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+6. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
