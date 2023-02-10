@@ -111,4 +111,16 @@ La siguiente es la especificación de la función que se usará en el módulo de
 |8|0 < diasAntelacion < ∞|
 |9|0 < tarifaBase < ∞|
 
-6. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+
+|Número de Clase de equivalencia|Caso de prueba|
+| - | - |
+|1|edad = 0|
+|2|edad = -15|
+|3|diasAntelacion = -10|
+|4|diasAntelacion = 0|
+|5|tarifaBase = -12|
+|6|tarifaBase = 0|
+|7|edad = 66|
+|8|diasAntelacion = 77|
+|9|tarifaBase = 18|
