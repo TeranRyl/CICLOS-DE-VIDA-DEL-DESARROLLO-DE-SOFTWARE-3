@@ -73,5 +73,18 @@ La siguiente es la especificación de la función que se usará en el módulo de
 
 
 3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
-4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
-5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+
+|Número de Clase de equivalencia|Parametros de entrada|Resultados esperados|
+| - | - | - |
+|1|(100, 23, 0)|ExcepcionParametrosInvalidos|
+|2|(100, 23, -10)|ExcepcionParametrosInvalidos|
+|3|(100, -2, 18)|ExcepcionParametrosInvalidos|
+|4|(100, 0, 17)|95|
+|5|(-100, 3, 18)|ExcepcionParametrosInvalidos|
+|6|(0, 15, 17)|0|
+|7|(100, 15, 17|95|
+|8|(100, 15, 21|100|
+|9|(100, 22, 19)|85|
+
+5. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
+6. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
