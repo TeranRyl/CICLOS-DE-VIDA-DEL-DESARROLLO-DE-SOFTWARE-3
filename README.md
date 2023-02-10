@@ -90,14 +90,14 @@ La siguiente es la especificación de la función que se usará en el módulo de
 
 |Número de Clase de equivalencia|Condicion limite de la entrada|
 | - | - | - |
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|1|edad = 0|
+|2|-∞ < edad < 0|
+|3|-∞ < diasAntelacion < 0|
+|4|diasAntelacion = 0|
+|5|-∞ < tarifaBase < 0|
+|6|taarifaBase = 0|
+|7|0 < edad < ∞|
+|8|0 < diasAntelacion < ∞|
+|9|0 < tarifaBase < ∞|
 
 6. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
